@@ -1,2 +1,2 @@
-# Exploring Mendiz 10
+# Exploring Mendix 10
 last build
